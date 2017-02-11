@@ -1,0 +1,9 @@
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.exe.config
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.csprojResolveAssemblyReference.cache
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.Form1.resources
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.Properties.Resources.resources
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.csproj.GenerateResource.Cache
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.exe
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.pdb
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.exe
+G:\VS Projects\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.pdb
